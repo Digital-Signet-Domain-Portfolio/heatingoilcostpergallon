@@ -1,0 +1,79 @@
+# Heatingoilcostpergallon
+
+> EIA SHOPP residential $5.54/gal. NYMEX NY Harbor ULSD front-month $4.19/gal. Spread $1.35. Northeast 8-state prices, pre-buy vs cap vs budget break-even, winter fill calculator. Sourced inline
+
+## Pages
+
+- [Home](https://heatingoilcostpergallon.com): Weekly $/gal residential heating oil for the 8 Northeast US states that consume ~80% of national #2 oil
+- [Average Annual Heating Oil Cost: By Sqft, Climate Band, and State](https://heatingoilcostpergallon.com/annual-heating-oil-cost): Average Northeast home burns 700 to 1,000 gal/winter. At $5.54/gal: $4432 to $6648 typical season
+- [Cold Winter Heating Oil Cost: +15% HDD Scenario, 5-Yr Precedent](https://heatingoilcostpergallon.com/cold-winter-scenario): What a +15% HDD winter does to your oil bill. NOAA outlook overlay. Should you top off in October?
+- [Connecticut](https://heatingoilcostpergallon.com/connecticut): Connecticut residential heating oil $5.55/gal. 31% of homes heat with oil. EIA SHOPP + CT DEEP weekly survey
+- [Connecticut Dealer Programmes](https://heatingoilcostpergallon.com/connecticut/dealer-programmes): Connecticut dealer programme decoder. Pre-buy/cap consumer protection, typical cap fees, regional dealer mix
+- [Connecticut History](https://heatingoilcostpergallon.com/connecticut/history): Connecticut residential heating oil weekly history, 2021 to 2026. Season averages, peak prices, year-on-year swings
+- [Crude Oil Shock Heating Oil: Hormuz, OPEC Cut, 70% Pass-Through](https://heatingoilcostpergallon.com/crude-shock-scenario): Crude +20 to 50% shock. Heating oil retail passes through ~70% within 4 weeks. Worked impact on a 700-gal household
+- [Heating Oil vs Diesel: Same Fuel, Different Tax (Dyed vs Clear)](https://heatingoilcostpergallon.com/diesel-vs-heating-oil): Dyed #2 (heating oil) and clear #2 (on-road diesel) are chemically the same. The price gap is federal + state road tax
+- [Heating Oil Questions: 15 Answers (Current Price, Pre-Buy, Tanks, Conversion)](https://heatingoilcostpergallon.com/faq): Fifteen most-asked heating oil questions. Current price, pre-buy economics, tank fill costs, conversion math
+- [Heating Oil vs Crude Oil Price: Track, Crack Spread, Pass-Through](https://heatingoilcostpergallon.com/heating-oil-vs-crude-oil): How #2 heating oil tracks WTI and Brent. Winter crack spread widens. $10/bbl crude move = ~$0.24/gal heating oil
+- [Heating Oil Vs Heat Pump](https://heatingoilcostpergallon.com/heating-oil-vs-heat-pump): Cold-climate ASHP wins on $/MMBtu in shoulder months. Below 20°F, COP falls, oil wins on single-digit weeks. IRA 25C + state rebates
+- [Heating Oil Vs Kerosene](https://heatingoilcostpergallon.com/heating-oil-vs-kerosene): K-1 kerosene runs ~$0.70/gal above heating oil but cold-flows to -40°F. Blend rules for outdoor tanks
+- [Heating Oil Vs Natural Gas](https://heatingoilcostpergallon.com/heating-oil-vs-natural-gas): Natural gas $15.43/MMBtu effective beats oil $32.19. Connection-fee crossover decides if conversion pays back
+- [Heating Oil Vs Propane](https://heatingoilcostpergallon.com/heating-oil-vs-propane): Heating oil $32.19/MMBtu effective vs propane $35.84/MMBtu. Tank ownership, delivery cadence, minimum fill compared
+- [Maine](https://heatingoilcostpergallon.com/maine): Maine residential heating oil $5.37/gal. 58% of homes heat with oil. EIA SHOPP + ME GEO weekly survey
+- [Maine Dealer Programmes](https://heatingoilcostpergallon.com/maine/dealer-programmes): Maine dealer programme decoder. Pre-buy/cap consumer protection, typical cap fees, regional dealer mix
+- [Maine History](https://heatingoilcostpergallon.com/maine/history): Maine residential heating oil weekly history, 2021 to 2026. Season averages, peak prices, year-on-year swings
+- [Massachusetts](https://heatingoilcostpergallon.com/massachusetts): Massachusetts residential heating oil $5.74/gal. 21% of homes heat with oil. EIA SHOPP + MA DOER weekly survey
+- [Massachusetts Dealer Programmes](https://heatingoilcostpergallon.com/massachusetts/dealer-programmes): Massachusetts dealer programme decoder. Pre-buy/cap consumer protection, typical cap fees, regional dealer mix
+- [Massachusetts History](https://heatingoilcostpergallon.com/massachusetts/history): Massachusetts residential heating oil weekly history, 2021 to 2026. Season averages, peak prices, year-on-year swings
+- [Heating Oil Price Per Gallon: National Average + EIA SHOPP Methodology](https://heatingoilcostpergallon.com/national-average): EIA SHOPP residential heating oil price per gallon. National average $5.54/gal (week of 2026-03-30). Survey methodology, release schedule, off-season pause explained
+- [New Hampshire](https://heatingoilcostpergallon.com/new-hampshire): New Hampshire residential heating oil $5.41/gal. 36% of homes heat with oil. EIA SHOPP weekly survey
+- [New Hampshire Dealer Programmes](https://heatingoilcostpergallon.com/new-hampshire/dealer-programmes): New Hampshire dealer programme decoder. Pre-buy/cap consumer protection, typical cap fees, regional dealer mix
+- [New Hampshire History](https://heatingoilcostpergallon.com/new-hampshire/history): New Hampshire residential heating oil weekly history, 2021 to 2026. Season averages, peak prices, year-on-year swings
+- [New York](https://heatingoilcostpergallon.com/new-york): New York residential heating oil $5.87/gal. 13% of homes heat with oil. EIA SHOPP weekly survey
+- [New York Dealer Programmes](https://heatingoilcostpergallon.com/new-york/dealer-programmes): New York dealer programme decoder. Pre-buy/cap consumer protection, typical cap fees, regional dealer mix
+- [New York History](https://heatingoilcostpergallon.com/new-york/history): New York residential heating oil weekly history, 2021 to 2026. Season averages, peak prices, year-on-year swings
+- [NYMEX Heating Oil Price: NY Harbor ULSD Front-Month + Curve Read](https://heatingoilcostpergallon.com/nymex-heating-oil): NYMEX NY Harbor ULSD (formerly NYMEX Heating Oil) front-month settles $4.19/gal. How to read contango vs backwardation as a homeowner
+- [Dyed Diesel vs Heating Oil Arbitrage: When the Penalty Outweighs the Tax Saving](https://heatingoilcostpergallon.com/off-road-vs-on-road-diesel-arbitrage): IRC §6715 federal penalty: $1,000 or $10/gal greater. State penalties stack. Arbitrage rarely pencils for residential
+- [Pennsylvania](https://heatingoilcostpergallon.com/pennsylvania): Pennsylvania residential heating oil $5.16/gal. 14% of homes heat with oil. EIA SHOPP weekly survey
+- [Pennsylvania Dealer Programmes](https://heatingoilcostpergallon.com/pennsylvania/dealer-programmes): Pennsylvania dealer programme decoder. Pre-buy/cap consumer protection, typical cap fees, regional dealer mix
+- [Pennsylvania History](https://heatingoilcostpergallon.com/pennsylvania/history): Pennsylvania residential heating oil weekly history, 2021 to 2026. Season averages, peak prices, year-on-year swings
+- [Pre-Buy Heating Oil vs Cap Price: Break-Even Decoder, Worked Examples](https://heatingoilcostpergallon.com/pre-buy-vs-cap-vs-budget): Pre-buy fixed locks today. Cap is a ceiling with a non-refundable fee. Will-call rides the market. Break-even ledger with three worked seasons
+- [Heating Oil Price History: 25 Years, Inflation-Adjusted, Shock Annotations](https://heatingoilcostpergallon.com/price-history-25-year): EIA annual residential heating oil price 2001 to 2026, in 2026 dollars. Annotated shocks: 2008 peak, 2014 crude crash, 2022 Ukraine, 2026...
+- [Rhode Island](https://heatingoilcostpergallon.com/rhode-island): Rhode Island residential heating oil $5.80/gal. 27% of homes heat with oil. EIA SHOPP + RI OER weekly survey
+- [Rhode Island Dealer Programmes](https://heatingoilcostpergallon.com/rhode-island/dealer-programmes): Rhode Island dealer programme decoder. Pre-buy/cap consumer protection, typical cap fees, regional dealer mix
+- [Rhode Island History](https://heatingoilcostpergallon.com/rhode-island/history): Rhode Island residential heating oil weekly history, 2021 to 2026. Season averages, peak prices, year-on-year swings
+- [When is Heating Oil Cheapest? Seasonal Price Pattern, 5-Year Average](https://heatingoilcostpergallon.com/seasonal-price-pattern): August and early September are typically the seasonal lows. October ramps. January to February usually peaks. The August pre-buy window still works...
+- [Heating Oil Price Data Sources: EIA, NYMEX, State Agencies (Series IDs)](https://heatingoilcostpergallon.com/sources): Source-of-record manifest. Every chip-cited number on this site traces to one of: EIA SHOPP, NYMEX NY Harbor ULSD, or state energy agencies
+- [275 Gallon Oil Tank Cost to Fill (~225 Usable Gallons)](https://heatingoilcostpergallon.com/tank-fill-cost-275-gallon): A 275-gal nameplate tank holds ~225 usable gallons at 80% safe-fill. At $5.54/gal national: $1247
+- [330 Gallon Oil Tank Fill Cost (Outdoor Tank, ~270 Usable Gallons)](https://heatingoilcostpergallon.com/tank-fill-cost-330-gallon): A 330-gal outdoor tank holds ~270 usable gallons at 80% safe-fill. At $5.54/gal national: $1496
+- [550 Gallon Oil Tank Fill Cost (Large Home, ~450 Usable Gallons)](https://heatingoilcostpergallon.com/tank-fill-cost-550-gallon): A 550-gal tank (or twin-275 install) holds ~450 usable gallons. At $5.54/gal national: $2493
+- [Northeast Heating Oil Dealers: 16 Vendor Index (Public Rate vs Quote-Only)](https://heatingoilcostpergallon.com/vendors): Sixteen NE heating oil dealers indexed. Petro, Bottini, Dead River, Burke, Eastern, Townsend, Webster, Devine, Santa, Cubby, Smart Touch, Discount Oil USA,...
+- [Vendors Approved Oil Co](https://heatingoilcostpergallon.com/vendors/approved-oil-co): Approved Oil Co pricing model and programmes. Quote-only by NYC borough.. Verified 2026-06-24
+- [Vendors Best Oil Inc](https://heatingoilcostpergallon.com/vendors/best-oil-inc): Best Oil Inc pricing model and programmes. Daily-posted will-call rate.. Verified 2026-06-24
+- [Vendors Bottini Fuel](https://heatingoilcostpergallon.com/vendors/bottini-fuel): Bottini Fuel pricing model and programmes. $4.399/gal cap ceiling (2026-27 season, Mid-Hudson group; +$0.35/gal enrollment). Verified 2026-08-18
+- [Vendors Burke Energy](https://heatingoilcostpergallon.com/vendors/burke-energy): Burke Energy pricing model and programmes. Quote-only by ZIP. No published rate card.. Verified 2026-06-24
+- [Vendors Codfish Oil](https://heatingoilcostpergallon.com/vendors/codfish-oil): Codfish Oil pricing model and programmes. Daily-posted rate by ZIP.. Verified 2026-06-24
+- [Vendors Cubby Oil Energy](https://heatingoilcostpergallon.com/vendors/cubby-oil-energy): Cubby Oil and Energy pricing model and programmes. Daily-posted rate (varies by week). Cap and pre-buy quote-only.. Verified 2026-06-24
+- [Vendors Dead River Company](https://heatingoilcostpergallon.com/vendors/dead-river-company): Dead River Company pricing model and programmes. Quote-only (price-protection enrollment window June to October). Verified 2026-06-24
+- [Dead River vs Eastern Propane and Oil: Maine + NH Heating Oil Dealers](https://heatingoilcostpergallon.com/vendors/dead-river-vs-eastern): Both quote-only across ME/NH. Dead River's June-October price-protection window vs Eastern's SmartPay budget. Programme structure compared
+- [Vendors Devine Brothers](https://heatingoilcostpergallon.com/vendors/devine-brothers): Devine Brothers pricing model and programmes. Quote-only by ZIP. No public list price.. Verified 2026-06-24
+- [Vendors Discount Oil Usa](https://heatingoilcostpergallon.com/vendors/discount-oil-usa): Discount Oil USA pricing model and programmes. Broker-listed daily rates by ZIP.. Verified 2026-06-24
+- [Vendors Eastern Propane Oil](https://heatingoilcostpergallon.com/vendors/eastern-propane-oil): Eastern Propane and Oil pricing model and programmes. Quote-only. No list price.. Verified 2026-06-24
+- [Vendors Oilheat Comfort Corp](https://heatingoilcostpergallon.com/vendors/oilheat-comfort-corp): OilHeat Comfort Corp pricing model and programmes. Quote-only.. Verified 2026-06-24
+- [Vendors Petro Home Services](https://heatingoilcostpergallon.com/vendors/petro-home-services): Petro Home Services pricing model and programmes. Quote-only by ZIP. No published rate card.. Verified 2026-07-27
+- [Petro Home Services vs Bottini Fuel: NY Heating Oil Pricing Compared](https://heatingoilcostpergallon.com/vendors/petro-vs-bottini): Petro: quote-only, large multi-state. Bottini: daily-posted, NY Hudson Valley, group-buy cap at $4.399/gal for 2026-27
+- [Vendors Santa Fuel](https://heatingoilcostpergallon.com/vendors/santa-fuel): Santa Fuel pricing model and programmes. Quote-only.. Verified 2026-06-24
+- [Vendors Smart Touch Energy](https://heatingoilcostpergallon.com/vendors/smart-touch-energy): Smart Touch Energy pricing model and programmes. Daily online rate by ZIP. No subscription, no plans.. Verified 2026-06-24
+- [Smart Touch Energy vs Cubby Oil: Online Discount Heating Oil Compared](https://heatingoilcostpergallon.com/vendors/smart-touch-vs-cubby): Both public-rate. Smart Touch: 6-state order online. Cubby: MA daily-posted + cap and pre-buy. Best for transparent will-call
+- [Vendors Townsend Energy](https://heatingoilcostpergallon.com/vendors/townsend-energy): Townsend Energy pricing model and programmes. Quote-only by ZIP.. Verified 2026-06-24
+- [Vendors Webster Energy](https://heatingoilcostpergallon.com/vendors/webster-energy): Webster Energy pricing model and programmes. Quote-only.. Verified 2026-06-24
+- [Vermont](https://heatingoilcostpergallon.com/vermont): Vermont residential heating oil $5.56/gal. 39% of homes heat with oil. EIA SHOPP + VT PSD weekly survey
+- [Vermont Dealer Programmes](https://heatingoilcostpergallon.com/vermont/dealer-programmes): Vermont dealer programme decoder. Pre-buy/cap consumer protection, typical cap fees, regional dealer mix
+- [Vermont History](https://heatingoilcostpergallon.com/vermont/history): Vermont residential heating oil weekly history, 2021 to 2026. Season averages, peak prices, year-on-year swings
+- [EIA Heating Oil Price: Weekly Release Calendar + Off-Season Pause](https://heatingoilcostpergallon.com/weekly-eia-release): EIA SHOPP releases weekly Monday ~13:00 ET, Oct to Mar. Paused Apr to Sep. Last reading 2026-03-30, next 2026-10-05
+- [Wholesale Heating Oil Price vs Retail: Where the Spread Goes](https://heatingoilcostpergallon.com/wholesale-vs-retail): NYMEX NY Harbor ULSD $4.19/gal vs EIA retail $5.54/gal. Spread $1.35: crude basis, refining, distribution, dealer margin, tax
+- [Why is Heating Oil So Expensive? Five Drivers, Plain English](https://heatingoilcostpergallon.com/why-heating-oil-prices-rise): Crude, refining, distribution, cold-snap demand, dealer margin. Each driver, weighted by how much it moves your bill
+- [Heating Oil Cost Calculator: Per-Fill, Per-Winter, Per-Programme](https://heatingoilcostpergallon.com/winter-fill-calculator): Calculate per-fill and whole-winter heating oil cost. Inputs: gallons, local $/gal, programme (will-call, auto, pre-buy, cap, budget). Math is gallons times price,...
+
+---
+
+*Generated 2026-08-26 from Heatingoilcostpergallon site source.*
